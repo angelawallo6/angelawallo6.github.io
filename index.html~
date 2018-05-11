@@ -100,25 +100,25 @@
 				<div id="camera_wrap" class="">
 					<div data-src="images/slide.jpg">
 						<div class="caption fadeIn">
-							<div class="title">Love</div>
-							<p>In mollis erat mattis neque facilisis, sit amet ultricies erat rutrumras  facilisis nulla vel viverra auctor, leo magna sodales felis, quis malesuada ibh odio ut velit. Proin pharetra luctus diam, a scelerisque eros convallis</p>
-							<p>Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a,mmodo luctus libero. Praesent faucibus malesu</p>
+							<div class="title">profile</div>
+							<p> I am a self-driven, determined,ready to learn lady with open mindset.I posses a great desire in everything i do.  </p>
+							<p>I like travelling, making new friends, and socialising.My talent is dancing and I have passion  on photography ,graphic design and modelling. </p>
 							<a href="#">Learn More</a>
 						</div>
 					</div>
 					<div data-src="images/slide1.jpg">
 						<div class="caption fadeIn">
-							<div class="title">Nude Art</div>
-							<p>In mollis erat mattis neque facilisis, sit amet ultricies erat rutrumras  facilisis nulla vel viverra auctor, leo magna sodales felis, quis malesuada ibh odio ut velit. Proin pharetra luctus diam, a scelerisque eros convallis</p>
-							<p>Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a,mmodo luctus libero. Praesent faucibus malesu</p>
+							<div class="title">Life</div>
+							<p>I was raised in Nairobi county,Where life was not fair most of the time i used to spend my life in the street but I thank God he was by my side in hard time thats why i live my entire life saving him.  </p>
+							<p> I enjoy working with great people who are ready  to make change and my dream is to build my own children home which i beleive and trust that it will come true.s </p>
 							<a href="#">Learn More</a>
 						</div>
 					</div>
 					<div data-src="images/slide2.jpg">
 						<div class="caption fadeIn">
-							<div class="title">In Motion</div>
-							<p>In mollis erat mattis neque facilisis, sit amet ultricies erat rutrumras  facilisis nulla vel viverra auctor, leo magna sodales felis, quis malesuada ibh odio ut velit. Proin pharetra luctus diam, a scelerisque eros convallis</p>
-							<p>Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a,mmodo luctus libero. Praesent faucibus malesu</p>
+							<div class="title">Life at school</div>
+							<p> I started acting when i was 10 years old when i was still at primary level.My  role model is Churchill,He is the one who inspired me so much through his funny clips ,I was able to gain my confidence by standing infront of my fellow students making them smile through my funny creativity.When i joined highschool i did not give up even though there were challenges in times of competition but all in all i strived for the best and awarded a certificate in contemporary dance.</p>
+							<p>In everything i do i always put God first because his my first priority</p>
 							<a href="#">Learn More</a>
 						</div>
 					</div>
@@ -131,9 +131,9 @@
 						<div class="grid_12">
 							<div class="rel">
 								<p>
-								Hi! I’m Angela Wallo. I like dancing and photography is my passion. 
+								Hi! I’m Angela Wallo.Photoghraphy and Graphic design are my passion. 
 								</p>
-								<a href="#" class="btn bt__1">kindly Hire me</a>
+								<a href="#" class="btn bt__1"> Hire me</a>
 							</div>
 						</div>
 					</div>
@@ -147,9 +147,9 @@
 							<div class="gallery">
 								<div class="row">
 									<div class="grid_4">
-										<a href="images/big1.jpg" class="gal_item">
-											<img src="images/page1_img1.jpg" alt="">
-											<div class="gal_caption">People</div>
+										<a href="" class="gal_item">
+											<img  alt="">
+											<div class="gal_caption">people</div>
 											<span class="gal_magnify"></span>
 										</a>
 									</div>
@@ -163,21 +163,21 @@
 									<div class="grid_4">
 										<a href="images/big3.jpg" class="gal_item">
 											<img src="images/page1_img3.jpg" alt="">
-											<div class="gal_caption">Wedding</div>
+											<div class="gal_caption">poster</div>
 											<span class="gal_magnify"></span>
 										</a>
 									</div>
 									<div class="grid_4">
 										<a href="images/big4.jpg" class="gal_item">
 											<img src="images/page1_img4.jpg" alt="">
-											<div class="gal_caption">Interior</div>
+											<div class="gal_caption">photographyr</div>
 											<span class="gal_magnify"></span>
 										</a>
 									</div>
 									<div class="grid_4">
 										<a href="images/big5.jpg" class="gal_item">
 											<img src="images/page1_img5.jpg" alt="">
-											<div class="gal_caption">Animals</div>
+											<div class="gal_caption"></div>
 											<span class="gal_magnify"></span>
 										</a>
 									</div>
@@ -195,50 +195,51 @@
 						<div class="grid_4">
 							<h3 class="mb__0">Equipment</h3>
 							<div class="block2">
-								<div class="block2_title color1">Camera</div>
+								<div class="block2_title color1">Who am I</div>
 									<ul class="list">
-									<li><a href="#">Lorem ipsum dolorertolo </a></li>
-									<li><a href="#">Git met consecteturert </a></li>
-									<li><a href="#">Odipiscing elit mollis erat</a></li>
+									<li><a href="#"> I am Angela Wallo i like dancing and travelling </a></li>
+									<li><a href="#"> I am a girl of high self 
+-esteem </a>I am a God fearing girl who minds her own business and I hate people who talk behind my back</li>
+									<li><a href="#">I  believe in teamwork and am passionate about photography</a></li>
 								</ul>
 							</div>
 							<div class="block2">
-								<div class="block2_title color1">Lighting</div>
+								<div class="block2_title color1"></div>
 								<ul class="list">
-									<li><a href="#">Lorem ipsum dolorilomo </a></li>
-									<li><a href="#">Aconsectetur teroloter </a></li>
-									<li><a href="#">Sdipiscing elitmollis erat </a></li>
+									<li><a > </></li>
+									<li><a > </a></li>
+									<li><a > </a></li>
 								</ul>
 							</div>
 						</div>
 						<div class="grid_4">
-							<h3>About me</h3>
-							<p>Need more information about this thingummy? Follow the <span class="color1"><a href="http://blog.templatemonster.com/free-website-templates/" rel="nofollow">link</a></span>.</p>
-							<p>Choose <span class="color1"><a href="http://www.templatemonster.com/properties/topic/design-photography/" rel="nofollow">designs</a></span> of this kind at TemplateMonster’s website.</p>
-							Cras facilisis, nulla vel viverra auctor, leo magna sodales felis, quis malesuada nibh odio ut velit. Proin pharetra luctus diam, a scelerisque eros convallis accumsanInteger convallis orci vel mi laoreet, at ornare lorem consequatasellus erat nisl<br>
-							<a href="#" class="btn bt__2">Read More</a>
+							<h3>Dream</h3>
+							<p><span =>I  have always dreamnt of building a children home because i have been through that  life and i can testify the challenges faced  there.  <a= >The street life is somehow irritating and i cannot just comfortably sit watching street children suffering along the road, yet nothing can be done if God sent someone to take control over my life why should I not make that step and improve the lives of other children. </a>I believe and trust in God that my dreams will be valid one day</span>.</p>
+							<p> <span=><a =>designs</a></span> </p>
+			<br>
+							<a href="#" class="btn bt__2"></a>
 						</div>
-						<div class="grid_4">
-							<h3>Publications</h3>
-							<ul class="list1">
+						<div class=">
+							<h3</h3>
+							<ul class=">
 								<li>
-									<div class="list_count">1</div>
-									<div class="extra_wrapper">
-										<div class="list1_title color2"><a href="#">“Lorem ipsum dolor sit met </a></div>In mollis erat mattis neque facilisis, sit amet ultricies erat rutrumras
-										<a href="#" class="color1 td_und">More</a>
+									<div >1</div>
+									<div >
+										<div "><a >  </a></div>
+										<a=></a>
 									</div>
 								</li>
 								<li>
-									<div class="list_count">2</div>
-									<div class="extra_wrapper">
-										<div class="list1_title color2"><a href="#">“Dorem ipsum dolor sit met </a></div>In mollis erat mattis neque facilisis, sit amet ultricies erat rutrumras
-										<a href="#" class="color1 td_und">More</a>
+									<div class=>2</div>
+									<div class=>
+										<div class=><a >  </a></div> 
+										<a =></a>
 									</div>
 								</li>
 								<li>
 									<div class="list_count">3</div>
 									<div class="extra_wrapper">
-										<div class="list1_title color2"><a href="#">“Kerem ipsum dolor sit met </a></div>In mollis erat mattis neque facilisis, sit amet ultricies erat rutrumras
+										<div class="list1_title color2"><a href="#"></a></div>
 										<a href="#" class="color1 td_und">More</a>
 									</div>
 								</li>

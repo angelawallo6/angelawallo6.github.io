@@ -87,11 +87,11 @@
 								<time datetime='2014-01-01'>22<span>Feb</span></time>
 								<img src="images/page4_img2.jpg" alt="" class=>
 								<div class="extra_wrapper">
-									<h3 class="blog_head color1"><a href="#"> Photography is my passion</a></h3>
-									<p>Design is what i do in my daily activity</p>
+									<h3 class="blog_head color1"><a href="#"></a></h3>
+									<p></p>
 									
 									<br>
-									<a href="#" class="btn bt__2">Nikon cameras are the best ,easy to use and captures clear images of your desire.</a>
+									<a href="#" class="btn bt__2"></a>
 								</div>
 							</div>
 							<div class="blog">
@@ -153,7 +153,7 @@
 							<a href="#" class="fa fa-pinterest"></a>
 						</div>
 						<div class="copy">
-							<span class="brand"></span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a>
+							<span class="brand">KatrineDove</span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a>
 							<div class="sub_copy">
 								Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a>
 							</div>
