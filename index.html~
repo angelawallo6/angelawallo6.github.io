@@ -103,7 +103,7 @@
 							<div class="title">profile</div>
 							<p> I am a self-driven, determined,ready to learn lady with open mindset.I posses a great desire in everything i do.  </p>
 							<p>I like travelling, making new friends, and socialising.My talent is dancing and I have passion  on photography ,graphic design and modelling. </p>
-							<a href="#">Learn More</a>
+							<a href="#"></a>
 						</div>
 					</div>
 					<div data-src="images/slide1.jpg">
@@ -111,15 +111,16 @@
 							<div class="title">Life</div>
 							<p>I was raised in Nairobi county,Where life was not fair most of the time i used to spend my life in the street but I thank God he was by my side in hard time thats why i live my entire life saving him.  </p>
 							<p> I enjoy working with great people who are ready  to make change and my dream is to build my own children home which i beleive and trust that it will come true.s </p>
-							<a href="#">Learn More</a>
+							<a href="#"></a>
 						</div>
 					</div>
 					<div data-src="images/slide2.jpg">
 						<div class="caption fadeIn">
 							<div class="title">Life at school</div>
+
 							<p> I started acting when i was 10 years old when i was still at primary level.My  role model is Churchill,He is the one who inspired me so much through his funny clips ,I was able to gain my confidence by standing infront of my fellow students making them smile through my funny creativity.When i joined highschool i did not give up even though there were challenges in times of competition but all in all i strived for the best and awarded a certificate in contemporary dance.</p>
 							<p>In everything i do i always put God first because his my first priority</p>
-							<a href="#">Learn More</a>
+							<a href="#"></a>
 						</div>
 					</div>
 				</div>
@@ -147,7 +148,7 @@
 							<div class="gallery">
 								<div class="row">
 									<div class="grid_4">
-										<a href="" class="gal_item">
+										<a href="images/big1.p" class="gal_item">
 											<img  alt="">
 											<div class="gal_caption">people</div>
 											<span class="gal_magnify"></span>
@@ -215,8 +216,7 @@
 						<div class="grid_4">
 							<h3>Dream</h3>
 							<p><span =>I  have always dreamnt of building a children home because i have been through that  life and i can testify the challenges faced  there.  <a= >The street life is somehow irritating and i cannot just comfortably sit watching street children suffering along the road, yet nothing can be done if God sent someone to take control over my life why should I not make that step and improve the lives of other children. </a>I believe and trust in God that my dreams will be valid one day</span>.</p>
-							<p> <span=><a =>designs</a></span> </p>
-			<br>
+							<p> <span=><a =></a></span> </p>
 							<a href="#" class="btn bt__2"></a>
 						</div>
 						<div class=">
@@ -275,7 +275,7 @@
 					<div class="row">
 						<div class="grid_5">
 							<div class="bot_title">
-								<span class="fa fa-envelope-o"></span>Subscribe to My Newsletter
+								<span class=></span>Subscribe to My Newsletter
 							</div>
 						</div>
 						<div class="grid_7">
