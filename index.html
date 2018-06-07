@@ -1,258 +1,100 @@
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<title>Home</title>
-		<meta charset="utf-8">
-		<meta name="format-detection" content="telephone=no">
-		<link rel="icon" href="images/favicon.ico">
-		<link rel="shortcut icon" href="images/favicon.ico">
-		<link rel="stylesheet" href="css/stuck.css">
-		<link rel="stylesheet" href="css/owl.carousel.css">
-		<link rel="stylesheet" href="css/form.css">
-		<link rel="stylesheet" href="css/touchTouch.css">
-		<link rel="stylesheet" href="css/camera.css">
-		<link rel="stylesheet" href="css/style.css">
-		<script src="js/jquery.js"></script>
-		<script src="js/jquery-migrate-1.1.1.js"></script>
-		<script src="js/script.js"></script>
-		<script src="js/superfish.js"></script>
-		<script src="js/jquery.equalheights.js"></script>
-		<script src="js/jquery.mobilemenu.js"></script>
-		<script src="js/jquery.easing.1.3.js"></script>
-		<script src="js/tmStickUp.js"></script>
-		<script src="js/jquery.ui.totop.js"></script>
-		<script src="js/touchTouch.jquery.js"></script>
-		<script src="js/owl.carousel.js"></script>
-		<script src="js/sForm.js"></script>
-		<script src="js/camera.js"></script>
-		<!--[if (gt IE 9)|!(IE)]><!-->
-		<script src="js/jquery.mobile.customized.min.js"></script>
-		<!--<![endif]-->
-		<script>
-		$(document).ready(function(){
-			jQuery('#camera_wrap').camera({
-				loader: false,
-				pagination: false ,
-				minHeight: '200',
-				thumbnails: false,
-				height: '39,0625%',
-				caption: true,
-				navigation: true,
-				fx: 'mosaic'
-			});
-			var owl = $("#owl");
-			owl.owlCarousel({
-				items : 7, //10 items above 1000px browser width
-				itemsDesktop : [995,5], //5 items between 1000px and 901px
-				itemsDesktopSmall : [767, 3], // betweem 900px and 601px
-				itemsTablet: [700, 3], //2 items between 600 and 0
-				itemsMobile : [479, 2], // itemsMobile disabled - inherit from itemsTablet option
-				navigation : true,
-			});
-			$().UItoTop({ easingType: 'easeOutQuart' });
-			$('#stuck_container').tmStickUp({});
-			$('.gallery a.gal_item').touchTouch();
-		});
-		</script>
-		<!--[if lt IE 8]>
-		<div style=' clear: both; text-align:center; position: relative;'>
-			<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
-				<img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
-			</a>
+<!--[if lte IE 8]> <html class="oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="format-detection" content="telephone=no">
+	<title>Angela Wallo</title>
+	<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="css/all.css" />
+	<link rel="stylesheet" href="css/screen.css" />
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div id="wrapper">
+		<div class="wrapper-holder">
+			<header id="header">
+				<a class="menu_trigger" href="#">menu</a>
+					<nav id="nav">
+						<ul>
+							<li><a class="active" href="index.html">Home</a></li>
+							<li><a href="myskills.html">My skills</a></li>
+							<li><a href="portfolio.html">Portfolio</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul>
+					</nav>
+				<h1 class="logo">Angela Wallo</h1>
+				<h2 class="slogan">Photographer & Graphic Designer</h2>
+			</header>
 		</div>
-		<![endif]-->
-		<!--[if lt IE 9]>
-		<script src="js/html5shiv.js"></script>
-		<link rel="stylesheet" media="screen" href="css/ie.css">
-		<![endif]-->
-	</head>
-	<body class="page1" id="top">
-<!--==============================header=================================-->
-		<header>
-			<div id="stuck_container">
-				<div class="container">
-					<div class="row">
-						<div class="grid_12">
-							<h1>
-								<a href="index.html">
-									<img src="images/logo.png" alt="Your Happy Family">
-								</a>
-							</h1>
-							<div class="menu_block">
-								<nav class="horizontal-nav full-width horizontalNav-notprocessed">
-									<ul class="sf-menu">
-										<li class="current"><a href="index.html">About</a></li>
-										<li><a href="index-1.html">Portfolio</a></li>
-										
-									</ul>
-								</nav>
-								<div class="clear"></div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</header>
-		<div class="main">
-			<div class="slider_wrapper">
-				<div id="camera_wrap" class="">
-					<div data-src="images/slide.jpg">
-						<div class="caption fadeIn">
-							<div class="title">profile</div> 
-
-							<p> Am a self-driven, determined, fastlearner, teamplayer, timekeeper and capable of suggesting innovative solutions at the workplace  and am an excellent  administrative analytical in communication skills.
-  </p>
-							<p>I like travelling, making new friends and My hobbies are dancing, acting,  socializing and modelling.   </p>
-							<a href="#"></a>
-						</div>
-					</div>
-					<div data-src="images/slide1.jpg">
-						<div class="caption fadeIn">
-							
-					</div>
-					<div data-src="images/slide2.jpg">
-						<
-
-							
-  
- </p>
-
-							<p> 
-							<a href="#"></a>
-						</div>
-					</div>
-				</div>
-			</div>
-<!--=====================Content======================-->
-			<div class="block1">
-				<div class="container">
-					<div class="row">
-						<div class="grid_12">
-							<div class="rel">
-								<p>
-								Hi! I’m Angela Wallo. Photoghraphy and Graphic design are my passion. 
-								</p>
-								<a href="#" class="btn bt__1"> Hire me</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<section class="content">
-				<div class="container"><div class="ic"></div>
-					<div class="row">
-						<div class="grid_12">
-							<h2>Some of my works.">
-
-
-								<div class="row">
-									<div class="grid_4">
-										<a href="images/big1.p" class="gal_item">
-											<img  alt="">
-											<div class="gal_caption"></div>
-											<span class="gal_magnify"></span>
-										</a>
-									</div>
-									<div class="grid_4">
-										<a href="images/big2.jpg" class="gal_item">
-											<img src="images/page1_img2.jpg" alt="">
-											<div class="gal_caption">Blender</div>
-											<span class="gal_magnify"></span>
-										</a>
-									</div>
-									<div class="grid_4">
-										<a href="images/big3.jpg" class="gal_item">
-											<img src="images/page1_big1.jpg" alt="">
-											<div class="gal_caption">poster</div>
-											<span class="gal_magnify"></span>
-										</a>
-									</div>
-									<div class="grid_4">
-										<a href="images/big4.jpg" class="gal_item">
-											<img src="images/page1_img4.jpg" alt="">
-											<div class="gal_caption">Banner</div>
-											<span class="gal_magnify"></span>
-										</a>
-									</div>
-									<div class="grid_4">
-										<a href="images/big5.jpg" class="gal_item">
-											<img src="images/page1_img5.jpg" alt="">
-											<div class="gal_caption">Logo</div>
-											<span class="gal_magnify"></span>
-										</a>
-									</div>
-									<div class="grid_4">
-										<a href="images/big6.jpg" class="gal_item">
-											<img src="images/page1_img6.jpg" alt="">
-											<div class="gal_caption">Photography</div>
-											<span class="gal_magnify"></span>
-										</a>
-									</div>
+		<div class="wrapper-holder grey">
+			<section id="main">
+				<h2>Here are my biggest achievements</h2>
+				<div class="box_timeline_holder">
+					<div class="box_timeline">
+						<ul>
+							<li>
+								<div class="date">
+									<span>12/09</span>
 								</div>
-							</div>
-						</div>
-						<div class="clear"></div>
-						<div class="grid_4">
-							<h3 class="mb__0"></h3>
-							<div class="block2">
-								<div class="block2_title color1">Who am I</div>
-									<ul class="list">
-									<li><a href="#">    </a></li>
-									<li><a href="#"> I am a girl of high self 
--esteem </a>I am a God fearing girl, who minds her own business. I  believe in teamwork and am passionate about photography</a></li></li>
-									
-							
-
-						<div class="grid_4">
-							<h3>Skills </h3>
-
-					                   <p>Photography</a>
-						</div><span =>Web Programming </a></span>.</p>
-
-						           <p>Graphic design <span=>.</p>
-
-			   
-
-										<div class="rel">
-											<div class="success"></div>
-											<label class="email">
-												<input type="email" value="Your Email Address Here" >
-												<span class="error">email address.</span>
-												<span class="clear"></span>
-											</label>
-										</div>
-									</div>
-									<div class="grid_3">
-										<a href="#" class="btn bt__2" data-type="submit">Submit</a>
-									</div>
+								<h3>tempora incidunt</h3>
+								<p>Dolor sit consectetur adipisicing elit, sed do eiusmod tempor</p>
+							</li>
+							<li>
+								<div class="date">
+									<span>02/10</span>
 								</div>
-							</form>
-						</div>
+								<h3>nemo enim ipsam</h3>
+								<p>Laudantium totam rem aperiam eaque ipsa quae</p>
+							</li>
+							<li>
+								<div class="date">
+									<span>09/11</span>
+								</div>
+								<h3>unde omnis iste</h3>
+								<p>Eaque ipsa quae illo inventore veritatis et quasi architecto </p>
+							</li>
+							<li>
+								<div class="date">
+									<span>06/12</span>
+								</div>
+								<h3>porro quisquam</h3>
+								<p>Dolorem ipsum quia consectetur adipisci velit sed quia non</p>
+							</li>
+							<li>
+								<div class="date">
+									<span>11/13</span>
+								</div>
+								<h3>dolorem eum</h3>
+								<p>Nodi tempora incidunt ut labore dolore magnam</p>
+							</li>
+						</ul>
 					</div>
 				</div>
 			</section>
 		</div>
-<!--==============================footer=================================-->
-		<footer>
-			<div class="container">
-				<div class="row">
-					<div class="grid_12">
-						<div class="footer_socials">
-							<a href="#" class="fa fa-twitter"></a>
-							<a href="#" class="fa fa-facebook"></a>
-							<a href="#" class="fa fa-google-plus"></a>
-							<a href="#" class="fa fa-pinterest"></a>
-						</div>
-						<div class="copy">
-							<span class="brand">Angela Wallo</span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a>
-							<div class="sub_copy">
-								Website designed by Angela Wallo<a href="http://www.templatemonster.com/" rel="nofollow"></a>Angela Wallo
-							</div>
-						</div>
-					</div>
-				</div>
+		<footer id="footer">
+			<div class="footer-content">
+				<ul class="social">
+					<li class="email"><a href="angelawallo621@gmail.com">Email</a></li>
+					<li class="facebook"><a href="facebook.com/aryapendo">Facebook</a></li>
+					<li class="google"><a href="#">Google+</a></li>
+					<li class="twitter"><a href="#">Twitter</a></li>
+					<li class="pinterest"><a href="#">Pinterest</a></li>
+				</ul>
+				<p class="copy">Copyright 2018 Angela Wallo. All rights reserved.</p>
 			</div>
-		</footer>
-	</body>
-</html>io</h2>
-							<div class=
+		</footer>	
+	</div>
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/cells-by-row.js"></script>
+	<script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>

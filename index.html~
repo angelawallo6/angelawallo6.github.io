@@ -83,8 +83,7 @@
 									<ul class="sf-menu">
 										<li class="current"><a href="index.html">About</a></li>
 										<li><a href="index-1.html">Portfolio</a></li>
-										<li><a href="index-3.html">Blog</a></li>
-										<li><a href="index-4.html">Contacts</a></li>
+										
 									</ul>
 								</nav>
 								<div class="clear"></div>
@@ -143,6 +142,7 @@
 				<div class="container"><div class="ic"></div>
 					<div class="row">
 						<div class="grid_12">
+
 							<h2>Some of my works.">
 
 
@@ -196,43 +196,31 @@
 						<div class="grid_4">
 							<h3 class="mb__0"></h3>
 							<div class="block2">
-								<div class="block2_title color1">Who am I</div>
+								<div class="block2_title color1"></div>
 									<ul class="list">
+                                                                 <div class="title">Who am I</div>  
+
 									<li><a href="#">    </a></li>
+
 									<li><a href="#"> I am a girl of high self 
 -esteem </a>I am a God fearing girl, who minds her own business. I  believe in teamwork and am passionate about photography</a></li></li>
-									
-							
-
+								
+	
+						<h2>Skills.">
 						<div class="grid_4">
-							<h3>Skills </h3>
+							<h3> </h3>
 
 					                   <p>Photography</a>
+
 						</div><span =>Web Programming </a></span>.</p>
 
-						           <p>Graphic design <span=>.</p>
+						           <p>Graphic design<span=></p>
+
+                                                          <p> Acting< span=></p>     
+
 
 			   
 
-										<div class="rel">
-											<div class="success"></div>
-											<label class="email">
-												<input type="email" value="Your Email Address Here" >
-												<span class="error">email address.</span>
-												<span class="clear"></span>
-											</label>
-										</div>
-									</div>
-									<div class="grid_3">
-										<a href="#" class="btn bt__2" data-type="submit">Submit</a>
-									</div>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
-			</section>
-		</div>
 <!--==============================footer=================================-->
 		<footer>
 			<div class="container">
