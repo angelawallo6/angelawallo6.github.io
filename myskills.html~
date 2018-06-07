@@ -24,8 +24,8 @@
 						<ul>
 							<li><a href="index.html">Home</a></li>
 							<li><a class="active" href="myskills.html">My skills</a></li>
-							<li><a href="Portfolio.html">Some of my works</a></li>
-							<li><a href="Contact.html">Contact</a></li>
+							<li><a href="portfolio.html">Portfolio</a></li>
+							<li><a href="contact.html">Contact</a></li>
 						</ul>
 					</nav>
 			</header>
@@ -35,9 +35,9 @@
 				<div class="skills_holder">
 					<div class="column">
 						<h2>Graphic skills:</h2>
-						<p> </p>
-						<ul class="progress">
-							
+						<p>
+						<ul class=</p>Equipments used in Graphic Design
+							<li><span class="photoshop">Nikon Camera</span></li>
 							<li><span class="illustrator">Illustrator</span></li>
 							<li><span class="indesign">GIMP</span></li>
 							<li><span class="flash">Inkscape</span></li>
@@ -45,45 +45,33 @@
 					</div>
 					<div class="column column-add">
 						<h2>Development  skills:</h2>
-						
+						<p> </p>
 						<ul class="progress">
-							<li><span class="html">html</span></li>							<li><span class="wordpress">Wordpress</span></li>
+							<li><span class="html">html</span></li>
+							<li><span class="wordpress">Wordpress</span></li>
+							<li><span class="Javascript">Javascript</span></li>
 							
-							<li><span class="seo">SEO</span></li>
-						</ul>
 					</div>
 				</div>
 				<ul class="plagin_list">
-					<li class="li_1"><a href="#">ps</a></li>
-					<li class="li_2"><a href="#">ai</a></li>
-					<li class="li_3"><a href="#">ld</a></li>
-					<li class="li_4"><a href="#">fl</a></li>
-					<li class="li_5"><a href="#">html</a></li>
-					<li class="li_6"><a href="#">wp</a></li>
-					<li class="li_7"><a href="#">jq</a></li>
-					<
-				<ul class="plagin_list none">
-					<li class="li_1"><a href="#">ps</a></li>
-					<li class="li_2"><a href="#">ai</a></li>
-					<li class="li_3"><a href="#">ld</a></li>
-					<li class="li_4"><a href="#">fl</a></li>
-				</ul>
-				<ul class="plagin_list none">
-					<li class="li_5"><a href="#">html</a></li>
-					<li class="li_6"><a href="#">wp</a></li>
-					<li class="li_7"><a href="#">jq</a></li>
-					<li class="li_8"><a href="#">seo</a></li>
-				</ul>
-				<p>
+					
+					<li class="li_2"><a href="#">Inkscape</a></li>
+					
+					<li class="li_6"><a href="#">wordpress</a></li>
+					<li class="li_7"><a href="#"></a></li>
+					<li class="li_8"><a href="#">Javascript</a></li>
+				
+				<p></p>
+			</section>
 		</div>
 		<footer id="footer">
 			<div class="footer-content">
 				<ul class="social">
 					<li class="email"><a href="#">Email</a></li>
 					<li class="facebook"><a href="#">Facebook</a></li>
-					<li class="google"><a href="#"></a></li>
-					<li class="twitter"><a href="#">Twitter</a></li>
 					
+					
+				</ul>
 				<p class="copy">Copyright 2018 Angela Wallo. All rights reserved.</p>
 			</div>
 		</footer>	
